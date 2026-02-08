@@ -1,0 +1,33 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Título */
+h1 {
+    color: green;
+}
+
+/* Botón */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+/* Caja de color */
+#caja {
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    border: 2px solid black;
+    margin: 20px auto;
+}
